@@ -3,4 +3,4 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-      - run: bash test1.sh
+      - run: bash ../../test1.sh
